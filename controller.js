@@ -66,7 +66,7 @@ async function controller(email, password) {
   console.log(`\nGear data combined! length: ${gearData.length}`);
 
   // weapon data
-  // TODO: try to get the suitable talents
+  // TODO: try to get the suitable talents, attachments
   console.log(`\nGetting main weapon data.../`);  
   const containerMain = await page.$('#primaryweapon-row');
   const mainWeaponData = await get.weapon(containerMain, page, 'main');
