@@ -9,7 +9,6 @@
   "author": "ln2r",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.6.1",
     "puppeteer": "^8.0.0"
   }
 }
