@@ -2,7 +2,6 @@
 This repository built for learning purpose.
 
 ## Features
----
 Available
 * Gears data (body armour, mask, gloves, etc.)
 * Weapons data (main, secondary, sidearms)
@@ -14,7 +13,6 @@ Planned
 * Talents
 
 ## Getting Started
----
 ### References and Library Used
 This app mainly use [puppeteer](https://github.com/puppeteer/puppeteer/) for scrapping. Please refer to these articles if you wanted to learn more.
 * [DigitalOcean - How To Scrape a Website Using Node.js and Puppeteer](https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-node-js-and-puppeteer) 
@@ -36,7 +34,6 @@ If you want to specify the output folder change this line (make sure the folder 
 ```
 
 ## Contact and License
----
 You can contact me via Discord (`ln2r#1691`).
 * [GitHub](https://github.com/ln2r/)
 
