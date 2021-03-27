@@ -33,9 +33,10 @@ If you want to specify the output folder change this line (make sure the folder 
 }
 ```
 
-## Contact and License
+## Credits, Contact and License
+Huge thank you to [`division-builds.com`](division-builds.com/) for providing easy to use The Division gear builds creator and equipment data!
+
 You can contact me via Discord (`ln2r#1691`).
 * [GitHub](https://github.com/ln2r/)
-
 
 *Code of this project is licensed under MIT license*
