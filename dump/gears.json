@@ -1,0 +1,992 @@
+[
+  {
+    "name": "Alpha Bridge Chest",
+    "slot": "chest",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Alpha Bridge Chest",
+    "slot": "chest",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Banshee Chest",
+    "slot": "chest",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Banshee Chest",
+    "slot": "chest",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Barret's bulletproof vest",
+    "slot": "chest",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "D3-FNC Chest",
+    "slot": "chest",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "D3-FNC Chest",
+    "slot": "chest",
+    "rarity": "Classified"
+  },
+  {
+    "name": "DeadEYE Chest",
+    "slot": "chest",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "DeadEYE Chest",
+    "slot": "chest",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Final Measure Chest",
+    "slot": "chest",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Final Measure Chest",
+    "slot": "chest",
+    "rarity": "Classified"
+  },
+  {
+    "name": "FireCrest Chest",
+    "slot": "chest",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "FireCrest Chest",
+    "slot": "chest",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Forceful Chest",
+    "slot": "chest",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Hunter's Faith Chest",
+    "slot": "chest",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Hunter's Faith Chest",
+    "slot": "chest",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Lone Star Chest",
+    "slot": "chest",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Lone Star Chest",
+    "slot": "chest",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Nomad Chest",
+    "slot": "chest",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Nomad Chest",
+    "slot": "chest",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Predator's Mark Chest",
+    "slot": "chest",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Predator's Mark Chest",
+    "slot": "chest",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Rapid Chest",
+    "slot": "chest",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Reckless Chest",
+    "slot": "chest",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Reclaimer Chest",
+    "slot": "chest",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Reclaimer Chest",
+    "slot": "chest",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Robust Chest",
+    "slot": "chest",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Sentry Chest",
+    "slot": "chest",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Sentry Chest",
+    "slot": "chest",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Striker Chest",
+    "slot": "chest",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Striker Chest",
+    "slot": "chest",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Tactician Chest",
+    "slot": "chest",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Tactician Chest",
+    "slot": "chest",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Vigorous Chest",
+    "slot": "chest",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Alpha Bridge Chest",
+    "slot": "backpack",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Alpha Bridge Chest",
+    "slot": "backpack",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Banshee Chest",
+    "slot": "backpack",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Banshee Chest",
+    "slot": "backpack",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Barret's bulletproof vest",
+    "slot": "backpack",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "D3-FNC Chest",
+    "slot": "backpack",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "D3-FNC Chest",
+    "slot": "backpack",
+    "rarity": "Classified"
+  },
+  {
+    "name": "DeadEYE Chest",
+    "slot": "backpack",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "DeadEYE Chest",
+    "slot": "backpack",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Final Measure Chest",
+    "slot": "backpack",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Final Measure Chest",
+    "slot": "backpack",
+    "rarity": "Classified"
+  },
+  {
+    "name": "FireCrest Chest",
+    "slot": "backpack",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "FireCrest Chest",
+    "slot": "backpack",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Forceful Chest",
+    "slot": "backpack",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Hunter's Faith Chest",
+    "slot": "backpack",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Hunter's Faith Chest",
+    "slot": "backpack",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Lone Star Chest",
+    "slot": "backpack",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Lone Star Chest",
+    "slot": "backpack",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Nomad Chest",
+    "slot": "backpack",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Nomad Chest",
+    "slot": "backpack",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Predator's Mark Chest",
+    "slot": "backpack",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Predator's Mark Chest",
+    "slot": "backpack",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Rapid Chest",
+    "slot": "backpack",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Reckless Chest",
+    "slot": "backpack",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Reclaimer Chest",
+    "slot": "backpack",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Reclaimer Chest",
+    "slot": "backpack",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Robust Chest",
+    "slot": "backpack",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Sentry Chest",
+    "slot": "backpack",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Sentry Chest",
+    "slot": "backpack",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Striker Chest",
+    "slot": "backpack",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Striker Chest",
+    "slot": "backpack",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Tactician Chest",
+    "slot": "backpack",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Tactician Chest",
+    "slot": "backpack",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Vigorous Chest",
+    "slot": "backpack",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Alpha Bridge Mask",
+    "slot": "mask",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Alpha Bridge Mask",
+    "slot": "mask",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Banshee Mask",
+    "slot": "mask",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Banshee Mask",
+    "slot": "mask",
+    "rarity": "Classified"
+  },
+  {
+    "name": "D3-FNC Mask",
+    "slot": "mask",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "D3-FNC Mask",
+    "slot": "mask",
+    "rarity": "Classified"
+  },
+  {
+    "name": "DeadEYE Mask",
+    "slot": "mask",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "DeadEYE Mask",
+    "slot": "mask",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Enduring Mask",
+    "slot": "mask",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Ferro's Oxygen Mask",
+    "slot": "mask",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Final Measure Mask",
+    "slot": "mask",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Final Measure Mask",
+    "slot": "mask",
+    "rarity": "Classified"
+  },
+  {
+    "name": "FireCrest Mask",
+    "slot": "mask",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "FireCrest Mask",
+    "slot": "mask",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Hunter's Faith Mask",
+    "slot": "mask",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Hunter's Faith Mask",
+    "slot": "mask",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Lone Star Mask",
+    "slot": "mask",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Lone Star Mask",
+    "slot": "mask",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Nomad Mask",
+    "slot": "mask",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Nomad Mask",
+    "slot": "mask",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Predator's Mark Mask",
+    "slot": "mask",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Predator's Mark Mask",
+    "slot": "mask",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Reclaimer Mask",
+    "slot": "mask",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Reclaimer Mask",
+    "slot": "mask",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Refreshed Mask",
+    "slot": "mask",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Rehabilitated Mask",
+    "slot": "mask",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Rejuvinated Mask",
+    "slot": "mask",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Sentry Mask",
+    "slot": "mask",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Sentry Mask",
+    "slot": "mask",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Striker Mask",
+    "slot": "mask",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Striker Mask",
+    "slot": "mask",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Tactician Mask",
+    "slot": "mask",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Tactician Mask",
+    "slot": "mask",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Tenacious Mask",
+    "slot": "mask",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Alpha Bridge Mask",
+    "slot": "gloves",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Alpha Bridge Mask",
+    "slot": "gloves",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Banshee Mask",
+    "slot": "gloves",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Banshee Mask",
+    "slot": "gloves",
+    "rarity": "Classified"
+  },
+  {
+    "name": "D3-FNC Mask",
+    "slot": "gloves",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "D3-FNC Mask",
+    "slot": "gloves",
+    "rarity": "Classified"
+  },
+  {
+    "name": "DeadEYE Mask",
+    "slot": "gloves",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "DeadEYE Mask",
+    "slot": "gloves",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Enduring Mask",
+    "slot": "gloves",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Ferro's Oxygen Mask",
+    "slot": "gloves",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Final Measure Mask",
+    "slot": "gloves",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Final Measure Mask",
+    "slot": "gloves",
+    "rarity": "Classified"
+  },
+  {
+    "name": "FireCrest Mask",
+    "slot": "gloves",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "FireCrest Mask",
+    "slot": "gloves",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Hunter's Faith Mask",
+    "slot": "gloves",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Hunter's Faith Mask",
+    "slot": "gloves",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Lone Star Mask",
+    "slot": "gloves",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Lone Star Mask",
+    "slot": "gloves",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Nomad Mask",
+    "slot": "gloves",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Nomad Mask",
+    "slot": "gloves",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Predator's Mark Mask",
+    "slot": "gloves",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Predator's Mark Mask",
+    "slot": "gloves",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Reclaimer Mask",
+    "slot": "gloves",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Reclaimer Mask",
+    "slot": "gloves",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Refreshed Mask",
+    "slot": "gloves",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Rehabilitated Mask",
+    "slot": "gloves",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Rejuvinated Mask",
+    "slot": "gloves",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Sentry Mask",
+    "slot": "gloves",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Sentry Mask",
+    "slot": "gloves",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Striker Mask",
+    "slot": "gloves",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Striker Mask",
+    "slot": "gloves",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Tactician Mask",
+    "slot": "gloves",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Tactician Mask",
+    "slot": "gloves",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Tenacious Mask",
+    "slot": "gloves",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Accomplished Knee Pads",
+    "slot": "kneepads",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Alpha Bridge Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Alpha Bridge Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Banshee Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Banshee Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Classified"
+  },
+  {
+    "name": "D3-FNC Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "D3-FNC Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Classified"
+  },
+  {
+    "name": "DeadEYE Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "DeadEYE Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Final Measure Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Final Measure Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Classified"
+  },
+  {
+    "name": "FireCrest Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "FireCrest Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Hunter's Faith Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Hunter's Faith Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Lone Star Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Lone Star Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Nomad Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Nomad Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Predator's Mark Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Predator's Mark Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Prosperous Knee Pads",
+    "slot": "kneepads",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Reclaimer Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Reclaimer Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Sentry Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Sentry Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Shortbow Championship Pads",
+    "slot": "kneepads",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Striker Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Striker Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Tactician Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Tactician Knee Pads",
+    "slot": "kneepads",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Accomplished Knee Pads",
+    "slot": "holster",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Alpha Bridge Knee Pads",
+    "slot": "holster",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Alpha Bridge Knee Pads",
+    "slot": "holster",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Banshee Knee Pads",
+    "slot": "holster",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Banshee Knee Pads",
+    "slot": "holster",
+    "rarity": "Classified"
+  },
+  {
+    "name": "D3-FNC Knee Pads",
+    "slot": "holster",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "D3-FNC Knee Pads",
+    "slot": "holster",
+    "rarity": "Classified"
+  },
+  {
+    "name": "DeadEYE Knee Pads",
+    "slot": "holster",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "DeadEYE Knee Pads",
+    "slot": "holster",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Final Measure Knee Pads",
+    "slot": "holster",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Final Measure Knee Pads",
+    "slot": "holster",
+    "rarity": "Classified"
+  },
+  {
+    "name": "FireCrest Knee Pads",
+    "slot": "holster",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "FireCrest Knee Pads",
+    "slot": "holster",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Hunter's Faith Knee Pads",
+    "slot": "holster",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Hunter's Faith Knee Pads",
+    "slot": "holster",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Lone Star Knee Pads",
+    "slot": "holster",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Lone Star Knee Pads",
+    "slot": "holster",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Nomad Knee Pads",
+    "slot": "holster",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Nomad Knee Pads",
+    "slot": "holster",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Predator's Mark Knee Pads",
+    "slot": "holster",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Predator's Mark Knee Pads",
+    "slot": "holster",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Prosperous Knee Pads",
+    "slot": "holster",
+    "rarity": "High-End"
+  },
+  {
+    "name": "Reclaimer Knee Pads",
+    "slot": "holster",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Reclaimer Knee Pads",
+    "slot": "holster",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Sentry Knee Pads",
+    "slot": "holster",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Sentry Knee Pads",
+    "slot": "holster",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Shortbow Championship Pads",
+    "slot": "holster",
+    "rarity": "Exotic"
+  },
+  {
+    "name": "Striker Knee Pads",
+    "slot": "holster",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Striker Knee Pads",
+    "slot": "holster",
+    "rarity": "Classified"
+  },
+  {
+    "name": "Tactician Knee Pads",
+    "slot": "holster",
+    "rarity": "Gear-Set"
+  },
+  {
+    "name": "Tactician Knee Pads",
+    "slot": "holster",
+    "rarity": "Classified"
+  }
+]

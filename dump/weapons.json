@@ -1,0 +1,1334 @@
+[
+  {
+    "name": "ACR",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/acr.png"
+  },
+  {
+    "name": "AUG A3 Para XS",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/aug.png"
+  },
+  {
+    "name": "Big Alejandro",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/mg48b.png"
+  },
+  {
+    "name": "Black Market AK-74",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/ak47.png"
+  },
+  {
+    "name": "Black Market M60 E6",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m60.png"
+  },
+  {
+    "name": "Black Market RPK-74 E",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/rpk74.png"
+  },
+  {
+    "name": "Black Market SASG-12 S",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/sasg12.png"
+  },
+  {
+    "name": "Black Market T821",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/t821.png"
+  },
+  {
+    "name": "Bullfrog",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/bullfrog.png"
+  },
+  {
+    "name": "Burst Fire MP-5 A4",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mp5burst.png"
+  },
+  {
+    "name": "Caduceus",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/scarl.png"
+  },
+  {
+    "name": "Cassidy",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/doublebarrel.png"
+  },
+  {
+    "name": "Classic AK-47",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/ak47.png"
+  },
+  {
+    "name": "Classic FAL",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/fal.png"
+  },
+  {
+    "name": "Classic M1A",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/historian.png"
+  },
+  {
+    "name": "Classic M44 Carbine",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m44.png"
+  },
+  {
+    "name": "Classic M60",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m60.png"
+  },
+  {
+    "name": "Classic RPK-74",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/rpk74.png"
+  },
+  {
+    "name": "Converted SMG-9",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/smg9.png"
+  },
+  {
+    "name": "Converted SMG-9 A2",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/smg9a2.png"
+  },
+  {
+    "name": "Converted USC",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/ump.png"
+  },
+  {
+    "name": "Covert SRS",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/covertsrs.png"
+  },
+  {
+    "name": "Custom L86 A2",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/l86.png"
+  },
+  {
+    "name": "Custom M44",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/customm44.png"
+  },
+  {
+    "name": "Custom M870 MCS",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m870.png"
+  },
+  {
+    "name": "Custom P416 G3",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/p416.png"
+  },
+  {
+    "name": "Devil",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/308ar.png"
+  },
+  {
+    "name": "Double Barrel Shotgun",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/doublebarrel.png"
+  },
+  {
+    "name": "Eir",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/smg9.png"
+  },
+  {
+    "name": "EMT P416",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/p416.png"
+  },
+  {
+    "name": "Enhanced ACR-E",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/acr.png"
+  },
+  {
+    "name": "Enhanced AUG A3P",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/aug.png"
+  },
+  {
+    "name": "Enhanced PP-19",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/pp19.png"
+  },
+  {
+    "name": "Firemans Super 90",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/super90.png"
+  },
+  {
+    "name": "First Wave M1A",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m1a.png"
+  },
+  {
+    "name": "First Wave Vector 45 ACP",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/firstwavevector.png"
+  },
+  {
+    "name": "G36 C",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/g36.png"
+  },
+  {
+    "name": "G36 Enhanced",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/g36enhanced.png"
+  },
+  {
+    "name": "Hazmat P416",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/p416.png"
+  },
+  {
+    "name": "Heel",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/308ar.png"
+  },
+  {
+    "name": "Hildr",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/smg9.png"
+  },
+  {
+    "name": "Historian",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/historian.png"
+  },
+  {
+    "name": "Hungry Hog",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/m60.png"
+  },
+  {
+    "name": "Hunter M870",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m870.png"
+  },
+  {
+    "name": "Hunting M44",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m44.png"
+  },
+  {
+    "name": "Infantry MG5",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mg5.png"
+  },
+  {
+    "name": "JTF P416",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/p416.png"
+  },
+  {
+    "name": "Liberator",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/m4.png"
+  },
+  {
+    "name": "Lightweight M4",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m4.png"
+  },
+  {
+    "name": "LVOA-C",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m4.png"
+  },
+  {
+    "name": "M249 B",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mk249.png"
+  },
+  {
+    "name": "M249 SAW",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m249.png"
+  },
+  {
+    "name": "M249 SAW T2",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m249.png"
+  },
+  {
+    "name": "M249 SAW T3",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m249.png"
+  },
+  {
+    "name": "M4",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m4.png"
+  },
+  {
+    "name": "M700 Carbon",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m700.png"
+  },
+  {
+    "name": "M700 Tactical",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m700.png"
+  },
+  {
+    "name": "M870 Express",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m870.png"
+  },
+  {
+    "name": "Marine Super 90",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/super90.png"
+  },
+  {
+    "name": "MDR Battle Rifle",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/mdr.png"
+  },
+  {
+    "name": "Medved",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/sasg12.png"
+  },
+  {
+    "name": "MG5",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mg5.png"
+  },
+  {
+    "name": "Midas",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/t821.png"
+  },
+  {
+    "name": "Military AK-47M",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/ak47.png"
+  },
+  {
+    "name": "Military G36",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/g36.png"
+  },
+  {
+    "name": "Military L86 LSW",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/l86.png"
+  },
+  {
+    "name": "Military M60 E4",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m60.png"
+  },
+  {
+    "name": "Military M870",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m870.png"
+  },
+  {
+    "name": "Military MK46",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mk249.png"
+  },
+  {
+    "name": "Military P416",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/p416.png"
+  },
+  {
+    "name": "Military RPK-74 M",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/rpk74.png"
+  },
+  {
+    "name": "Military SA-58",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/fal.png"
+  },
+  {
+    "name": "Military SCAR-H",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/scarh.png"
+  },
+  {
+    "name": "Model 700",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m700.png"
+  },
+  {
+    "name": "MP-5 ST",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mp5st.png"
+  },
+  {
+    "name": "MP5",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mp5.png"
+  },
+  {
+    "name": "MP7",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mp7.png"
+  },
+  {
+    "name": "Navy MP-5 N",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mp5.png"
+  },
+  {
+    "name": "Pakhan",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/rpk74.png"
+  },
+  {
+    "name": "Paratrooper SVD",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/svd.png"
+  },
+  {
+    "name": "Police M4",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/policem4.png"
+  },
+  {
+    "name": "Police M870",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m870.png"
+  },
+  {
+    "name": "Police Mk17",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/scarh.png"
+  },
+  {
+    "name": "Police T821",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/policet821.png"
+  },
+  {
+    "name": "Police UMP-45",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/ump.png"
+  },
+  {
+    "name": "PP-19",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/pp19.png"
+  },
+  {
+    "name": "SASG-12",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/sasg12.png"
+  },
+  {
+    "name": "SCAR-L",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/scarl.png"
+  },
+  {
+    "name": "SOCOM M1A",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m1a.png"
+  },
+  {
+    "name": "SOCOM Mk20 SSR",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/scarh.png"
+  },
+  {
+    "name": "SOCOM SCAR-L",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/scarl.png"
+  },
+  {
+    "name": "SRS A1",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/srs.png"
+  },
+  {
+    "name": "Super 90",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/super90.png"
+  },
+  {
+    "name": "Surplus SVD",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/svd.png"
+  },
+  {
+    "name": "Survivor AK-47",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/ak47.png"
+  },
+  {
+    "name": "Tactical ACR",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/acr.png"
+  },
+  {
+    "name": "Tactical AUG A3P",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/aug.png"
+  },
+  {
+    "name": "Tactical M249 Para",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mk249.png"
+  },
+  {
+    "name": "Tactical Mk 16",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/scarl.png"
+  },
+  {
+    "name": "Tactical SA-58",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/fal.png"
+  },
+  {
+    "name": "Tactical SASG-12 K",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/sasg12.png"
+  },
+  {
+    "name": "Tactical Super 90 SBS",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/super90.png"
+  },
+  {
+    "name": "Tactical UMP-45",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/ump.png"
+  },
+  {
+    "name": "Tactical Vector 45 ACP",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/tacticalvector.png"
+  },
+  {
+    "name": "Tenebrae",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/tenebrae.png"
+  },
+  {
+    "name": "The House",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/mpx.png"
+  },
+  {
+    "name": "The Showstopper",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/aa12.png"
+  },
+  {
+    "name": "Thompson M1928",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/thompson.png"
+  },
+  {
+    "name": "Tommy Gun",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/thompson.png"
+  },
+  {
+    "name": "Vector 45 ACP",
+    "slot": "main",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/vector.png"
+  },
+  {
+    "name": "Warlord",
+    "slot": "main",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/ak47.png"
+  },
+  {
+    "name": "ACR",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/acr.png"
+  },
+  {
+    "name": "AUG A3 Para XS",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/aug.png"
+  },
+  {
+    "name": "Big Alejandro",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/mg48b.png"
+  },
+  {
+    "name": "Black Market AK-74",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/ak47.png"
+  },
+  {
+    "name": "Black Market M60 E6",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m60.png"
+  },
+  {
+    "name": "Black Market RPK-74 E",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/rpk74.png"
+  },
+  {
+    "name": "Black Market SASG-12 S",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/sasg12.png"
+  },
+  {
+    "name": "Black Market T821",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/t821.png"
+  },
+  {
+    "name": "Bullfrog",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/bullfrog.png"
+  },
+  {
+    "name": "Burst Fire MP-5 A4",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mp5burst.png"
+  },
+  {
+    "name": "Caduceus",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/scarl.png"
+  },
+  {
+    "name": "Cassidy",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/doublebarrel.png"
+  },
+  {
+    "name": "Classic AK-47",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/ak47.png"
+  },
+  {
+    "name": "Classic FAL",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/fal.png"
+  },
+  {
+    "name": "Classic M1A",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/historian.png"
+  },
+  {
+    "name": "Classic M44 Carbine",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m44.png"
+  },
+  {
+    "name": "Classic M60",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m60.png"
+  },
+  {
+    "name": "Classic RPK-74",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/rpk74.png"
+  },
+  {
+    "name": "Converted SMG-9",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/smg9.png"
+  },
+  {
+    "name": "Converted SMG-9 A2",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/smg9a2.png"
+  },
+  {
+    "name": "Converted USC",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/ump.png"
+  },
+  {
+    "name": "Covert SRS",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/covertsrs.png"
+  },
+  {
+    "name": "Custom L86 A2",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/l86.png"
+  },
+  {
+    "name": "Custom M44",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/customm44.png"
+  },
+  {
+    "name": "Custom M870 MCS",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m870.png"
+  },
+  {
+    "name": "Custom P416 G3",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/p416.png"
+  },
+  {
+    "name": "Devil",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/308ar.png"
+  },
+  {
+    "name": "Double Barrel Shotgun",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/doublebarrel.png"
+  },
+  {
+    "name": "Eir",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/smg9.png"
+  },
+  {
+    "name": "EMT P416",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/p416.png"
+  },
+  {
+    "name": "Enhanced ACR-E",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/acr.png"
+  },
+  {
+    "name": "Enhanced AUG A3P",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/aug.png"
+  },
+  {
+    "name": "Enhanced PP-19",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/pp19.png"
+  },
+  {
+    "name": "Firemans Super 90",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/super90.png"
+  },
+  {
+    "name": "First Wave M1A",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m1a.png"
+  },
+  {
+    "name": "First Wave Vector 45 ACP",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/firstwavevector.png"
+  },
+  {
+    "name": "G36 C",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/g36.png"
+  },
+  {
+    "name": "G36 Enhanced",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/g36enhanced.png"
+  },
+  {
+    "name": "Hazmat P416",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/p416.png"
+  },
+  {
+    "name": "Heel",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/308ar.png"
+  },
+  {
+    "name": "Hildr",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/smg9.png"
+  },
+  {
+    "name": "Historian",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/historian.png"
+  },
+  {
+    "name": "Hungry Hog",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/m60.png"
+  },
+  {
+    "name": "Hunter M870",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m870.png"
+  },
+  {
+    "name": "Hunting M44",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m44.png"
+  },
+  {
+    "name": "Infantry MG5",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mg5.png"
+  },
+  {
+    "name": "JTF P416",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/p416.png"
+  },
+  {
+    "name": "Liberator",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/m4.png"
+  },
+  {
+    "name": "Lightweight M4",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m4.png"
+  },
+  {
+    "name": "LVOA-C",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m4.png"
+  },
+  {
+    "name": "M249 B",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mk249.png"
+  },
+  {
+    "name": "M249 SAW",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m249.png"
+  },
+  {
+    "name": "M249 SAW T2",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m249.png"
+  },
+  {
+    "name": "M249 SAW T3",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m249.png"
+  },
+  {
+    "name": "M4",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m4.png"
+  },
+  {
+    "name": "M700 Carbon",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m700.png"
+  },
+  {
+    "name": "M700 Tactical",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m700.png"
+  },
+  {
+    "name": "M870 Express",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m870.png"
+  },
+  {
+    "name": "Marine Super 90",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/super90.png"
+  },
+  {
+    "name": "MDR Battle Rifle",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/mdr.png"
+  },
+  {
+    "name": "Medved",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/sasg12.png"
+  },
+  {
+    "name": "MG5",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mg5.png"
+  },
+  {
+    "name": "Midas",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/t821.png"
+  },
+  {
+    "name": "Military AK-47M",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/ak47.png"
+  },
+  {
+    "name": "Military G36",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/g36.png"
+  },
+  {
+    "name": "Military L86 LSW",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/l86.png"
+  },
+  {
+    "name": "Military M60 E4",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m60.png"
+  },
+  {
+    "name": "Military M870",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m870.png"
+  },
+  {
+    "name": "Military MK46",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mk249.png"
+  },
+  {
+    "name": "Military P416",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/p416.png"
+  },
+  {
+    "name": "Military RPK-74 M",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/rpk74.png"
+  },
+  {
+    "name": "Military SA-58",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/fal.png"
+  },
+  {
+    "name": "Military SCAR-H",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/scarh.png"
+  },
+  {
+    "name": "Model 700",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m700.png"
+  },
+  {
+    "name": "MP-5 ST",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mp5st.png"
+  },
+  {
+    "name": "MP5",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mp5.png"
+  },
+  {
+    "name": "MP7",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mp7.png"
+  },
+  {
+    "name": "Navy MP-5 N",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mp5.png"
+  },
+  {
+    "name": "Pakhan",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/rpk74.png"
+  },
+  {
+    "name": "Paratrooper SVD",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/svd.png"
+  },
+  {
+    "name": "Police M4",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/policem4.png"
+  },
+  {
+    "name": "Police M870",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m870.png"
+  },
+  {
+    "name": "Police Mk17",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/scarh.png"
+  },
+  {
+    "name": "Police T821",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/policet821.png"
+  },
+  {
+    "name": "Police UMP-45",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/ump.png"
+  },
+  {
+    "name": "PP-19",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/pp19.png"
+  },
+  {
+    "name": "SASG-12",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/sasg12.png"
+  },
+  {
+    "name": "SCAR-L",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/scarl.png"
+  },
+  {
+    "name": "SOCOM M1A",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/m1a.png"
+  },
+  {
+    "name": "SOCOM Mk20 SSR",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/scarh.png"
+  },
+  {
+    "name": "SOCOM SCAR-L",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/scarl.png"
+  },
+  {
+    "name": "SRS A1",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/srs.png"
+  },
+  {
+    "name": "Super 90",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/super90.png"
+  },
+  {
+    "name": "Surplus SVD",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/svd.png"
+  },
+  {
+    "name": "Survivor AK-47",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/ak47.png"
+  },
+  {
+    "name": "Tactical ACR",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/acr.png"
+  },
+  {
+    "name": "Tactical AUG A3P",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/aug.png"
+  },
+  {
+    "name": "Tactical M249 Para",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/mk249.png"
+  },
+  {
+    "name": "Tactical Mk 16",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/scarl.png"
+  },
+  {
+    "name": "Tactical SA-58",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/fal.png"
+  },
+  {
+    "name": "Tactical SASG-12 K",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/sasg12.png"
+  },
+  {
+    "name": "Tactical Super 90 SBS",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/super90.png"
+  },
+  {
+    "name": "Tactical UMP-45",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/ump.png"
+  },
+  {
+    "name": "Tactical Vector 45 ACP",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/tacticalvector.png"
+  },
+  {
+    "name": "Tenebrae",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/tenebrae.png"
+  },
+  {
+    "name": "The House",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/mpx.png"
+  },
+  {
+    "name": "The Showstopper",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/aa12.png"
+  },
+  {
+    "name": "Thompson M1928",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/thompson.png"
+  },
+  {
+    "name": "Tommy Gun",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/thompson.png"
+  },
+  {
+    "name": "Vector 45 ACP",
+    "slot": "sidearm",
+    "rarity": "High-End",
+    "img": "https://division-builds.com/img/sprites/weapons/vector.png"
+  },
+  {
+    "name": "Warlord",
+    "slot": "sidearm",
+    "rarity": "Exoctic",
+    "img": "https://division-builds.com/img/sprites/weapons/ak47.png"
+  }
+]
