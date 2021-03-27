@@ -1,5 +1,6 @@
 const puppeteer = require('puppeteer');
 const get = require('./getter');
+const config = require('./config.json');
 const fs = require('fs');
 
 async function controller(email, password) {
@@ -85,13 +86,13 @@ async function controller(email, password) {
   // await browser.close();
 
   // writing data
-  fs.writeFile('dump/gears.json', JSON.stringify(gearData, null, 2), (err) => {
+  fs.writeFile(`${config.output}/gears.json`, JSON.stringify(gearData, null, 2), (err) => {
     if (err){
       console.log('<!> Failed to write gears data.');
       console.log(err)
     }
   });
-  fs.writeFile('dump/weapons.json', JSON.stringify(weaponData, null, 2), (err) => {
+  fs.writeFile(`${config.output}/weapons.json`, JSON.stringify(weaponData, null, 2), (err) => {
     if (err){
       console.log('<!> Failed to write weapon data.');
       console.log(err)
